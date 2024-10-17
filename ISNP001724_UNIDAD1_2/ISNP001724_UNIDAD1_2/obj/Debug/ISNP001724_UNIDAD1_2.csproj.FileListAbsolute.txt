@@ -1,0 +1,7 @@
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\bin\Debug\ISNP001724_UNIDAD1_2.exe.config
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\bin\Debug\ISNP001724_UNIDAD1_2.exe
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\bin\Debug\ISNP001724_UNIDAD1_2.pdb
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\obj\Debug\ISNP001724_UNIDAD1_2.csproj.AssemblyReference.cache
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\obj\Debug\ISNP001724_UNIDAD1_2.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\obj\Debug\ISNP001724_UNIDAD1_2.exe
+C:\Users\Oscar Alvarenga\Desktop\Bloque 1 -actividad 1 - conociendo los fundamentos de programacion\Actividad1\ISNP001724_UNIDAD1_2\ISNP001724_UNIDAD1_2\obj\Debug\ISNP001724_UNIDAD1_2.pdb
