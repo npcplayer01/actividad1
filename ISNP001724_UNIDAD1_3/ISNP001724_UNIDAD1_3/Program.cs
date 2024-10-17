@@ -24,10 +24,10 @@ namespace ISNP001724_UNIDAD1_3
                 }
                 else
                 {
-                    Console.WriteLine("El número introducido no es válido, por favor introduce un número positivo");
+                    Console.WriteLine("El número introducido no es válido");
                 }
 
-            } while (num <= 0);
+            } while (num > 0);
             Console.WriteLine("La suma de los números introducidos es: " + suma);
             Console.WriteLine("Fin del programa");  
             Console.ReadLine();
